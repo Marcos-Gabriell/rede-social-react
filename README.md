@@ -1,4 +1,4 @@
-# Projeto de Estudos sobre React.js - Feed de Publicações()
+# Projeto de Estudos sobre React.js - Feed de Publicações(Em desenvolvimento)
 
 Este é o repositório do projeto desenvolvido para estudos sobre React.js, com foco na criação de um feed de publicações interativo. O projeto visa aprofundar os conhecimentos em desenvolvimento frontend utilizando a biblioteca React.js. OBS: Aidna está em desenvovliemnto...
 
