@@ -13,7 +13,6 @@ O projeto consiste na criação de um feed de publicações interativo, onde os 
 - Comentários nas publicações, permitindo aos usuários interagirem entre si.
 - Funcionalidade de dar likes nas publicações.
 
-
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
