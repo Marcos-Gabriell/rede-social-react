@@ -3,6 +3,7 @@
 
 Este é o repositório do projeto desenvolvido para estudos sobre React.js, com foco na criação de um feed de publicações interativo. O projeto visa aprofundar os conhecimentos em desenvolvimento frontend utilizando a biblioteca React.js. OBS: Aidna está em desenvovliemnto...
 
+
 ## Descrição
 
 O projeto consiste na criação de um feed de publicações interativo, onde os usuários podem visualizar, comentar e interagir com as postagens de forma dinâmica. Além disso, os usuários podem dar likes nas publicações e filtrar as postagens por categorias.
